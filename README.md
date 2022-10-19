@@ -34,9 +34,9 @@ Eclipse IDE 2021-12 + JDK 17 + SQLite3
 | ![image-20221018125513731](README/image-20221018125513731.png) | ![image-20221018125518992](README/image-20221018125518992.png) |
 | **3. Select the smart mode, the system automatically classifies the data** | **4. The result is displayed, return to the Home Menu**      |
 | ![image-20221018125523061](README/image-20221018125523061.png) | ![image-20221018125527910](README/image-20221018125527910.png) |
-| **5. Select the custom classifiaction mode**                 | **User-define file format**                                  |
+| **5. Select the custom classifiaction mode**                 | **6. User-define file format**                                  |
 | ![image-20221018125551280](README/image-20221018125551280.png) | ![image-20221018125554836](README/image-20221018125554836.png) |
-| **Continue analyzing data / exit system**                    | **Exit system**                                              |
+| **7. Continue analyzing data / exit system**                    | **8. Exit system**                                              |
 | ![image-20221018125601849](README/image-20221018125601849.png) | ![image-20221018125605562](README/image-20221018125605562.png) |
 
 <br />
