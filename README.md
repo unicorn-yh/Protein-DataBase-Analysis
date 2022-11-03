@@ -3,22 +3,22 @@
 
  <br />
 
- ### **About**
+ ## **About**
 Aiming to diverse protein sequence attributes, establishing a simple protein sequence attribute management system, which is convenient for staff to browse, and able to download the attributes of related protein sequences, assisting the staff in statistical analysis of the included protein sequence information.
 
 <br />
 
-### **Implementation**
+## **Implementation**
 The program contains two modules, interactive module and database operation module. The interactive module is used to parse the instructions input by the user, and pass the parsing result to the database operation module; the database operation module is used to manage the sequence in the database, which can operate the recorded sequence information according to the analysis result of the interactive module, and transfer the corresponding sequence information. The result of the operation is passed to the interaction module.
 
 <br />
 
-### **Operating environment**
+## **Operating environment**
 Eclipse IDE 2021-12 + JDK 17 + SQLite3
 
 <br />
 
-### **Execution method**
+## **Execution method**
 1. Install JDK17
 
 2. Copy the program ProteinDataSystem.jar and run.bat files to the same directory on the computer
@@ -27,7 +27,7 @@ Eclipse IDE 2021-12 + JDK 17 + SQLite3
 
 <br />
 
-### **Result**
+## **Result**
 
 | 1. Open the program, manually enter the selected file        | 2. Home Menu: Select Custom Classification/ Smart Clustering |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -41,7 +41,7 @@ Eclipse IDE 2021-12 + JDK 17 + SQLite3
 
 <br />
 
-### **TextRank Algorithm**
+## **TextRank Algorithm**
 
 The biological sequence is regarded as a document. Through the word segmentation algorithm, an array composed of sequence fragments is obtained, a vector is obtained by digitization, and a similarity matrix is constructed. Through the TextRank algorithm, the sorting results of different arrays are obtained, and the similarity between different arrays is used to score the structure. 
 
@@ -49,7 +49,7 @@ The biological sequence is regarded as a document. Through the word segmentation
 
 <br />
 
-### **Brief development process**
+## **Brief development process**
 
 | Date                       | Progress                                                     |
 | -------------------------- | ------------------------------------------------------------ |
@@ -62,7 +62,7 @@ The biological sequence is regarded as a document. Through the word segmentation
 
 <br />
 
-### **Personal summary**
+## **Personal summary**
 
 The modules of the intelligent algorithm have not actually been implemented into the main core concepts of machine learning in the actual operation process. The main reason is that there is no experience in the development of the TextRank model, and I am worried that the task cannot be completed before the specified time, so I chose simple clustering way to classify. During the course design experiment, I have tried to apply the TextRank model, and successfully run a small database to rank the similarity of protein sequences in order and reverse order.
 
