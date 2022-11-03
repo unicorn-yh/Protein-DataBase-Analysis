@@ -30,7 +30,7 @@ Eclipse IDE 2021-12 + JDK 17 + SQLite3
 ## **Result**
 
 | 1. Open the program, manually enter the selected file        | 2. Home Menu: Select Custom Classification/ Smart Clustering |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :------------------------------------------------------------ | :------------------------------------------------------------ |
 | ![image-20221018125513731](README/image-20221018125513731.png) | ![image-20221018125518992](README/image-20221018125518992.png) |
 | **3. Select the smart mode, the system automatically classifies the data** | **4. The result is displayed, return to the Home Menu**      |
 | ![image-20221018125523061](README/image-20221018125523061.png) | ![image-20221018125527910](README/image-20221018125527910.png) |
@@ -45,7 +45,7 @@ Eclipse IDE 2021-12 + JDK 17 + SQLite3
 
 The biological sequence is regarded as a document. Through the word segmentation algorithm, an array composed of sequence fragments is obtained, a vector is obtained by digitization, and a similarity matrix is constructed. Through the TextRank algorithm, the sorting results of different arrays are obtained, and the similarity between different arrays is used to score the structure. 
 
-<img src="README/image-20221018130437624.png" alt="image-20221018130437624" style="zoom:80%;" />
+<p align="center"><img src="README/image-20221018130437624.png" alt="image-20221018130437624" style="zoom:80%;" /></p>
 
 <br />
 
