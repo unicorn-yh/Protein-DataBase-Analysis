@@ -1,5 +1,5 @@
 # Java-Protein-DataBase-Analysis
- 蛋白质数据库解析
+ Analyzing protein sequences using classification and clustering method
 
  <br />
 
